@@ -55,4 +55,8 @@
         font-size: 20px;
         font-weight: bold;
     }
+    .novelvo .footer .flink {
+        color: gray;
+        text-decoration: none;
+    }
 }
