@@ -1,0 +1,9 @@
+@font-face {
+    font-family: vazir;
+    src: url("../font/Vazir.ttf");
+}
+
+body {
+    text-align: right;
+    direction: rtl;
+}
